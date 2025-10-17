@@ -33,11 +33,3 @@ print(full_array)
 # np.arange(start, stop, step)
 arr = np.arange(1, 10, 2)  # from 1 to 9 with step of 2
 print(arr)
-
-
-
-
-
-
-
-
