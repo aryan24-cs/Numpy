@@ -22,3 +22,8 @@ print("Square:", np.square(arr))
 
 #to calculate the power 2 times of each element
 print("Power 2:", arr ** 2)
+
+
+
+
+
