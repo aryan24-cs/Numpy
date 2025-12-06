@@ -10,7 +10,6 @@ print("NumPy Array:", numpy_array)
 hello = np.array([1, 2, 3, 4, 5])
 print(hello)
 
-
 # create with default values
 # np.zeros(shape)
 zero_arry = np.zeros((3, 3))  # 3 rows and 4 columns
@@ -26,7 +25,7 @@ print(ones_array)
 # create with any other number
 # np.full(shape, fill_value)
 full_array = np.full((2, 3), 7)  # 2 rows and 3 columns filled with 7
-print(full_array)
+print(full_array)       
 
 
 # create sequence of numbers within a specified range
